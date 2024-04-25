@@ -3,7 +3,7 @@
 
 
 ## Introduction:
-The study explores machine learning and deep learning algorithms in game learning. Various neural network architectures are tested, and a comparative analysis is conducted based on task-specific performance metrics. State-of-the-art models are discussed, and their results are analyzed.
+This project explores machine learning and deep learning algorithms in game learning. Various neural network architectures are tested, and a comparative analysis is conducted based on task-specific performance metrics. State-of-the-art models are discussed, and their results are analyzed.
 
 
 ### Game Learning:
